@@ -119,8 +119,8 @@ tv_samsung:
   position: [-6.775, 1.365, 0.57]
   orientation: [0, 0, 2.35619449]
 
-shelf_white:
-  model: cob_gazebo_objects/objects/shelf_white.urdf
+shelf:
+  model: cob_gazebo_objects/objects/shelf.urdf
   position: [-8.05, 2.81, 0]
   orientation: [0, 0, 0.785398164]
 
@@ -313,3 +313,22 @@ cb_9x6:
   model: cob_gazebo_objects/objects/cb_9x6.urdf
   position: [-0.7, -0.1, 1]
   orientation: [1.56, 0, 1.56]
+
+
+##################################
+#ARAIG
+##################################
+wall:
+  model: araig_objects/objects/wall.sdf
+  position: [5,0,0]
+  orientation: [0, 0, -1.56]
+floor:
+  model: araig_objects/objects/floor.sdf
+  position: [0,0,0]
+  orientation: [0, 0, 0]
+wheel:
+  model: araig_objects/Media/models/car_wheel/model.sdf
+  position: [5,0,0]
+  orientation: [0, 0, 0]
+
+

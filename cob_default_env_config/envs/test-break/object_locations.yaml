@@ -1,0 +1,11 @@
+##################################
+#ARAIG
+##################################
+camera_1:
+  model: araig_objects/Media/models/camera/model.sdf
+  position: [6,2,2]
+  orientation: [0, 0, 0]
+camera_2:
+  model: araig_objects/Media/models/camera/model.sdf
+  position: [12,0,2]
+  orientation: [0, 0, 0]
