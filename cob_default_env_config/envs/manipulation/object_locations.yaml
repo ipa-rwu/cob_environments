@@ -1,0 +1,22 @@
+##################################
+#Food
+##################################
+
+salt:
+  model: araig_objects/objects/salt.urdf
+  position: [ 1.9, 0.3, 0.71 ]
+  orientation: [0, 0, 1.570796]
+
+zwieback:
+  model: araig_objects/objects/zwieback.urdf
+  position: [-1.5, -0.7, 0.9]
+  orientation: [0, 0, 1.570796]
+
+##################################
+#Drinks
+##################################
+milk:
+  model: araig_objects/objects/milk.urdf
+  position: [1.9, -0.3, 0.71]
+  orientation: [0, 0, 0]
+
